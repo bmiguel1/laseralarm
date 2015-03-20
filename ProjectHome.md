@@ -1,0 +1,1 @@
+a laser hitting an LDR is interrupted setting off a piezo buzzer/
